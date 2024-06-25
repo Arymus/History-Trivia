@@ -1,2 +1,2 @@
 # History-Trivia
-3 question history trivia
+Simple CLI history trivia using python
